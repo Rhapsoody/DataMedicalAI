@@ -41,3 +41,5 @@ Projet d'analyse des données sur le diabète et utilisation de modèles pour la
     - **Matrice de Corrélation** : Affichez la matrice de corrélation entre les différentes caractéristiques
     - **Box Plots** : Visualisez la distribution des caractéristiques à l'aide de box plots
     - **Aperçu des Données** : Consultez un aperçu des premières lignes et des statistiques descriptives du jeu de données
+
+**Créé par** : AGONGLO Shalom
